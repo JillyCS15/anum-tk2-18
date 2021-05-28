@@ -1,4 +1,4 @@
-function visualize_mirshas_bird_func
+function visualize_mishras_bird_func_3d
   x=linspace(-10,0,100);
   y=linspace(-10,0,100);
   [xx,yy]=meshgrid(x,y);
